@@ -5,9 +5,9 @@
 using namespace std;
 
 float r, pole, obw;
-const double PI=3.14159265;
+const float PI=3.14159265;
 
-int main(int argc, char **argv){
+int main(int argc, char *argv[]){
     if(argc==2 && argv[1]>0){
         r = atof(argv[1]);
     } else {
