@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1315400216 source:/home/ddominikp/c++/Pole koła/main.cpp
+	<iostream>
+	<cmath>
+
